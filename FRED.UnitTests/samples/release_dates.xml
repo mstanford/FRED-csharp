@@ -1,0 +1,19 @@
+<release_dates realtime_start="1776-07-04" realtime_end="9999-12-31" order_by="release_date" sort_order="asc" count="17" offset="0" limit="10000">
+  <release_date release_id="82">1997-02-10</release_date>
+  <release_date release_id="82">1998-02-10</release_date>
+  <release_date release_id="82">1999-02-04</release_date>
+  <release_date release_id="82">2000-02-10</release_date>
+  <release_date release_id="82">2001-01-16</release_date>
+  <release_date release_id="82">2002-02-06</release_date>
+  <release_date release_id="82">2003-02-07</release_date>
+  <release_date release_id="82">2004-02-09</release_date>
+  <release_date release_id="82">2005-02-17</release_date>
+  <release_date release_id="82">2006-02-13</release_date>
+  <release_date release_id="82">2007-02-16</release_date>
+  <release_date release_id="82">2008-02-11</release_date>
+  <release_date release_id="82">2009-03-03</release_date>
+  <release_date release_id="82">2010-02-11</release_date>
+  <release_date release_id="82">2011-02-23</release_date>
+  <release_date release_id="82">2012-10-24</release_date>
+  <release_date release_id="82">2013-04-10</release_date>
+</release_dates>
